@@ -1,0 +1,13 @@
+2025-10-27 06:11:12,513 - INFO - Added 10 of apple to inventory.
+2025-10-27 06:11:12,514 - INFO - Added 2 of banana to inventory.
+2025-10-27 06:11:12,514 - INFO - Added 1 of orange to inventory.
+2025-10-27 06:11:12,514 - WARNING - Invalid input types: item=123, qty=ten
+2025-10-27 06:11:12,514 - INFO - Removed 3 of apple. Remaining: 7
+2025-10-27 06:11:12,514 - INFO - Removed orange completely from inventory.
+2025-10-27 06:11:12,514 - ERROR - Attempted to remove non-existent item: mango
+2025-10-27 06:11:12,514 - INFO - Inventory saved to inventory.json.
+2025-10-27 06:11:12,515 - INFO - Inventory loaded from inventory.json.
+2025-10-27 06:21:19,745 - INFO - Added 10 of apple
+2025-10-27 06:21:19,745 - INFO - Added 2 of banana
+2025-10-27 06:21:19,745 - INFO - Added 1 of orange
+2025-10-27 06:21:19,745 - INFO - Removed item: orange
